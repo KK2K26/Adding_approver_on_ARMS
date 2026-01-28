@@ -22,6 +22,7 @@ Install everything using:
 ```bash
 pip install -r requirements.txt
 
+```
 ---
 
 ## Open Chrome/Edge Browser in Debug mode
